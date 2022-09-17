@@ -1,2 +1,2 @@
 # Pattern-Questions
-This is a repository for java pattern questions such as SolidRectangle, HollowRectangle. 
+This is a repository for java pattern questions such as SolidRectangle, HollowRectangle, HalfPyramid. 
